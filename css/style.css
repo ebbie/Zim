@@ -3908,7 +3908,7 @@ ul {
   z-index: 9999999;
 }
 .status {
-  background-image: url(../images/logo.png);
+  background-image: url(../images/Spinner.svg);
   animation: fade 5s;
  -webkit-animation: fade 5s;
  -moz-animation: fade 5s;
